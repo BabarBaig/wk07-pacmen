@@ -1,6 +1,6 @@
 # pacmen
 
-Implement project described below.
+Implement project described below.  
 Link for completed project:  
 <https://babarbaig.github.io/wk07-pacmen/>
 
