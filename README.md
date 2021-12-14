@@ -22,5 +22,5 @@ Clone this repo on your computer and load file index.html into a browser.
 * Add a maze and allow pacmen to only move within the maze
 * Prevent pacmen from overlapping
 
-credit  
-**MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021**
+**Credit  
+MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021**
