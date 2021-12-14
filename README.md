@@ -14,6 +14,9 @@ Link for completed project: <https://babarbaig.github.io/wk07-pacmen/>
 
 <img src="PacMan1.png">
 
+# To Execute
+Clone this repo on your computer and load file index.html into a browser.
+
 # Future Improvements
 
 * Add a maze and allow pacmen to only move within the maze
