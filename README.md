@@ -14,7 +14,7 @@ Link for completed project: <https://babarbaig.github.io/wk07-pacmen/>
 
 <img src="PacMan1.png">
 
-@ Future Improvements
+# Future Improvements
 
 * Add a maze and allow pacmen to only move within the maze
 * Prevent pacmen from overlapping
