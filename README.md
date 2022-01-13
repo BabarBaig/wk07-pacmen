@@ -1,7 +1,13 @@
 # pacmen
 
-Implement project described below.  
-Link for completed project: <https://babarbaig.github.io/wk07-pacmen/>
+Simple implementation of the popular PacMan game.
+
+# To Execute
+
+1. Click on this link: <https://babarbaig.github.io/wk07-pacmen/>  
+2. Click on button [Add PacMen] a few times to add a few PacMacn icons to Screen.  
+3. Click on button [Start Game] to start movement of PacMen across the screen.  Once they reach the end of a screen, they are bounced back.
+4. Additional clicks on [Start Game] speed-up movement of PacMen.
 
 =====================================================================
 
@@ -13,9 +19,6 @@ Link for completed project: <https://babarbaig.github.io/wk07-pacmen/>
 * Start by getting at least one pacman positioned and viewable. 
 
 <img src="PacMan1.png">
-
-# To Execute
-Clone this repo on your computer and load file index.html into a browser.
 
 # Future Improvements
 
